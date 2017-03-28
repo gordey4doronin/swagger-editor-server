@@ -56,9 +56,7 @@
   "dependencies": {
     "connect": "~3.3.3",
     "open": "0.0.5",
-    "serve-static": "~1.7.1"
-  },
-  "peerDependencies": {
+    "serve-static": "~1.7.1",
     "swagger-editor": "^3.0.2"
   }
 }
